@@ -37,7 +37,7 @@
 ### 方式二：源码运行
 
 ```bash
-git clone https://github.com/<your-name>/SmartTagger.git
+git clone https://github.com/InfinityTechnology/SmartTagger.git
 cd SmartTagger
 pip install -r requirements.txt
 python main.py
